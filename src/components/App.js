@@ -10,7 +10,7 @@ const App = () => {
   };
 
   return (
-    <div style={{ margin: "20px" }}>
+    <div style={{ margin: "21px" }}>
       <label htmlFor="nameInput">Enter your name:</label>
       <input
         id="nameInput"
